@@ -9,15 +9,14 @@ if(!($arParams["IBLOCK_ID"] > 0))
 }
 use \Bitrix\Main\Service\GeoIp;
 use Bitrix\Main\Context;
-//CJSCore::Init(array('jquery2'));
-//CAjax::Init();
 use Bitrix\Main\UI\Extension;
+use Bitrix\Highloadblock\HighloadBlockTable; // Импортируем класс
 Extension::load('ui.bootstrap4');
 $IP = GeoIp\Manager::getRealIp();//Получаем IP юзера
-//$IP = '77.66.129.1';
+
 $user_sity = GeoIp\Manager::getCityName($IP);//Получаем название города на английском
 
-use Bitrix\Highloadblock\HighloadBlockTable; // Импортируем класс
+
 
 if (\Bitrix\Main\Loader::includeModule("highloadblock")) { //Проверяем подключение модуля
 
@@ -30,8 +29,6 @@ if (\Bitrix\Main\Loader::includeModule("highloadblock")) { //Проверяем 
     $rsData = $strEntityDataClass::getList(array(
         'select' => array('UF_NAME_RU','UF_TEL', 'UF_ADRESS'), // Выберем название города на русском и телефон соответствующий этому городу
         'filter' => array("UF_NAME_EN" =>$user_sity), //Ищем английское название города
-        //'order' => array('ID' => 'ASC'), // Сортировка
-        //'limit' => '1',
      ));
 	if (intval($rsData->getSelectedRowsCount())==0)//Если город в базе не найден, принудительно выставляем Москву.
 	{
@@ -44,14 +41,12 @@ if (\Bitrix\Main\Loader::includeModule("highloadblock")) { //Проверяем 
 
 		 while ($arItem = $rsData->Fetch()) 
 		 { 
-
 			 $city=$arItem["UF_NAME_RU"];
 			 $tel=$arItem["UF_TEL"];
 			 $adress=$arItem["UF_ADRESS"];
 		 }
-	
 }
-//var_dump($arItems);
+
 $arResult["city"]=$city;
 $arResult["tel"]=$tel;
 $arResult["adress"]=$adress;

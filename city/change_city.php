@@ -1,9 +1,7 @@
 <?php
 require_once($_SERVER['DOCUMENT_ROOT'].'/bitrix/modules/main/include/prolog_before.php');//Обязательная строка инициирующая движок Битрикса, но не подключающая шаблон
-
 if (! defined ( "B_PROLOG_INCLUDED" ) || B_PROLOG_INCLUDED !== true) die ();
-//echo $_POST['hblockId'];
-//$this->addExternalJS("/local/components/city/script.js");
+
 if (\Bitrix\Main\Loader::includeModule("highloadblock")) { //Проверяем подключение модуля
 
     $hblockId =  $_POST['hblockId']; //Мой блок с городами
@@ -27,15 +25,11 @@ $arFilter = Array(
     $rsData = $strEntityDataClass::getList(array(
         'select' => array('UF_NAME_RU','UF_TEL', 'UF_ADRESS'), // Выберем название города на русском
         'filter' => $arFilter, //Ищем название города
-        //'order' => array('ID' => 'ASC'), // Сортировка
-        //'limit' => '1',
      ));
 
      while ($arItem = $rsData->Fetch()) 
 	 { 
 		 $arItems[]=array('name'=>$arItem["UF_NAME_RU"], 'tel'=>$arItem["UF_TEL"], 'adress'=>$arItem["UF_ADRESS"]);//;
-		 //$city=$arItem["UF_NAME_RU"];
-		 //$tel=$arItem["UF_TEL"];
      }
 
 }
@@ -50,7 +44,7 @@ else
 	}
 	echo '</ul>';
 }
-//var_dump($arItems);
+
 ?>
 <script>
  

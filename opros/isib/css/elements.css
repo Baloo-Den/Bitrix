@@ -1,0 +1,10 @@
+.button {
+  display: inline-block;
+  vertical-align: middle;
+  text-decoration: none !important;
+  cursor: pointer;
+  transition: all 0.4s ease;
+}
+.button.green {
+  background: #0f0;
+}

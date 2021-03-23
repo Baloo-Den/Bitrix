@@ -1,0 +1,16 @@
+@media print {
+  header,
+  #panel,
+  .breadcrumbs,
+  .right-menu,
+  footer,
+  .no-print,
+  #scrollTopBtn {
+    display: none !important;
+  }
+
+  .row > div {
+    width: 40%;
+    float: left;
+  }
+}

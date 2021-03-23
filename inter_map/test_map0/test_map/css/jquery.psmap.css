@@ -1,0 +1,245 @@
+@CHARSET "UTF-8";
+/*#map1 {
+  -webkit-transform: rotate(70deg);
+  -moz-transform: rotate(70deg);
+  -ms-transform: rotate(70deg);
+  -o-transform: rotate(70deg);
+  transform: rotate(70deg);
+	
+	
+}*/
+.psMap
+{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 80%;
+  height: 80%;
+	
+}
+.psMap .psMapOuter
+{
+	position: absolute;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	overflow: hidden;
+}
+
+.psMap .psMapLayer
+{
+	left: 0;
+	top: 0;
+	display: block;
+	position: relative;
+}
+
+.psMap .psMapCaret
+{
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	overflow: auto;
+	margin: 0 -17px -17px 0;
+}
+
+.psMap .psMapCaret > div
+{
+	display: block;
+	position: absolute;
+	
+}
+
+.psMap .psMapNavs
+{
+	display: block;
+	position: absolute;
+	bottom: 20px;
+	left: 20px;
+	width: 100px;
+	height: 65px;
+	border-radius: 5px;
+	background-color: rgba(0, 0, 0, 0.13);	
+}
+
+.psMap .psMapNavs .navbtn
+{
+	display: block;
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	background-color: white;
+	background-repeat: no-repeat;
+	background-position: center;
+	border-radius: 3px;
+	opacity: .7;	
+}
+
+.psMap .psMapNavs .navbtn-large
+{
+	width: 20px;
+	height: 20px;	
+}
+
+
+.psMap .psMapNavs .navbtn:hover
+{
+	opacity: 1;	
+}
+
+.psMap .psMapNavs .navbtn.muted
+{
+	opacity: .4 !important;	
+}
+
+.psMap .psMapNavs .navbtn.zoomIn
+{
+	left: 5px;
+	top: 10px;
+	background-image: url(./zoomin-ico.png);
+	
+}
+.psMap .psMapNavs .navbtn.zoomOut
+{
+	left: 5px;
+	top: 35px;
+	background-image: url(./zoomout-ico.png);	
+}
+
+
+.psMap .psMapNavs .navbtn.up
+{
+	left: 58px;
+	top: 5px;
+	background-image: url(./up-ico.png);	
+}
+
+.psMap .psMapNavs .navbtn.reset
+{
+	left: 58px;
+	top: 25px;
+	background-image: url(./reset-ico.png);	
+}
+
+
+.psMap .psMapNavs .navbtn.down
+{
+	left: 58px;
+	top: 45px;
+	background-image: url(./down-ico.png);	
+}
+
+.psMap .psMapNavs .navbtn.left
+{
+	left: 38px;
+	top: 25px;	
+	background-image: url(./left-ico.png);
+}
+.psMap .psMapNavs .navbtn.right
+{
+	left: 78px;
+	top: 25px;
+	background-image: url(./right-ico.png);	
+}
+
+
+.psMap svg
+{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+  right: 0px;
+  display: none;
+}
+
+
+.psMap svg .area
+{
+	opacity: 0.5;
+	fill: rgba(255,255,255,0);
+	-webkit-transition: fill .2s ease-out 0s;
+	-moz-transition: fill .2s ease-out 0s;
+	-o-transition: fill .2s ease-out 0s;
+	transition: fill .2s ease-out 0s;	
+}
+
+.psMap svg .area.reserved
+{
+	fill: #ffae00;	
+}
+
+.psMap svg .area.sold
+{
+	fill: #990000;	
+}
+
+.psMap svg .area:hover
+{
+	fill: #ffffff;	
+}
+
+.pslabel
+{
+	position: absolute;
+	overflow: hidden;
+	border-radius: 10pt;
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	font-size: 14pt;
+	line-height: 1.4em;
+	min-width: 200pt;
+	min-height: 50pt;
+	padding: 10pt;
+	background-color: white;
+	-webkit-box-shadow: 2px 2px 6px -1px rgba(0,0,0,0.38);
+	-moz-box-shadow: 2px 2px 6px -1px rgba(0,0,0,0.38);
+	box-shadow: 2px 2px 6px -1px rgba(0,0,0,0.38);
+	z-index: 10000;
+}
+
+.pslabel .title
+{
+	color: white;
+	text-align: center;	
+	background-color: #5b9405;
+	margin: -10pt -10pt 10pt -10pt;
+
+}
+
+.pslabel .free
+{
+	background-color: #009900;
+}
+.pslabel .sold
+{
+	background-color: #990000;
+}
+.pslabel .reserved
+{
+	background-color: #ffae00;
+}
+
+.pslabel img
+{
+	width: 100%;
+}
+
+.pslabel table
+{
+	width: 100%;
+}
+
+ .pslabel table td
+{
+	/*vertical-align: top;*/
+}
+
+.pslabel big
+{
+	font-size: 25pt;
+}
+

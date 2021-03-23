@@ -1,0 +1,284 @@
+@charset "utf-8";
+
+/*Переопределение блоков */
+body:after {
+  visibility: hidden;
+  height    : 0;
+  font-size : 0;
+  position  : absolute;
+}
+
+@media (min-width: 100px) {
+  body:after {
+    content: "mobile_cusom";
+  }
+}
+
+@media (min-width: 576px) {
+  body:after {
+    content: "mobile_extra";
+  }
+}
+
+@media (min-width: 767px) {
+  body:after {
+    content: "mobile";
+  }
+}
+
+@media (min-width: 992px) {
+  body:after {
+    content: "tablet";
+  }
+}
+
+@media (min-width: 1200px) {
+  body:after {
+    content: "desktop";
+  }
+}
+
+/*скрипт обработчик*/
+
+@media (min-width: 992px) and (max-width: 1200px) {}
+
+@media (min-width: 700px) and (max-width: 767px) {}
+
+@media (min-width: 580px) and (max-width: 700px) {}
+
+@media (min-width: 320px) and (max-width: 480px) {}
+
+/*==========  Interval end  ==========*/
+
+
+
+
+@media (max-width: 1300px) {
+  .el_slide .card {
+    margin-bottom: 0px;
+  }
+
+  .title_section {
+    font-size  : 23px;
+    line-height: 27px;
+  }
+
+  .card-text.bit_text {
+    font-size  : 41px;
+    line-height: 47px;
+  }
+}
+
+/*Большие девайсы (большие десктопы, < 1200px)*/
+@media (max-width: 1199.98px) {
+  .tel_h img {
+    width: 35px;
+  }
+
+  .tel_h {
+    font-size  : 21px;
+    line-height: 28px;
+  }
+
+  body .btn-default {
+    font-size: 13px;
+    padding  : 0px 12px;
+  }
+}
+
+/*Средние девайсы («таблетки», < 992px) */
+@media (max-width: 991.98px) {
+  .el_indent {
+    width: 100%;
+  }
+  .card-text.bit_text {
+    font-size: 36px;
+    line-height: 47px;
+}
+.title_bold {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 145%;
+  letter-spacing: 0.05em;
+  color: #313131;
+}
+}
+
+/*Малые девайсы («ландшафтные», < 768px)*/
+@media (max-width: 767.98px) {
+  .multiple-items .card img {
+    min-height: auto;
+}
+  .card img {
+    -o-object-fit: cover;
+    object-fit   : cover;
+    max-height   : 250px;
+  }
+
+  .text_main h1 {
+    font-size  : 57px;
+    line-height: 53px;
+  }
+
+  .text_main_sm {
+    font-size  : 28px;
+    line-height: 145%;
+  }
+
+  .text_main {
+    min-height   : 401px;
+    margin-bottom: 0;
+  }
+  .card img {
+    min-height: 250px;
+    -o-object-position: left;
+       object-position: left;
+}
+.card-text.bit_text {
+  font-size: 28px;
+  line-height: 47px;
+}
+}
+
+@media (max-width: 575.98px) {
+  .multiple-items .slick-prev {
+    left: -26px;
+}
+  .multiple-items .slick-next {
+    right: -26px;
+}
+  .multiple-items .slick-prev,
+  .multiple-items .slick-next {
+    background-size: 23px;
+}
+  .el_slide .card img {
+    min-height: 184px;
+    max-height: 184px;
+}
+  .card img {
+    min-height: 136px;
+    max-height: 136px;
+    -o-object-position: left;
+       object-position: left;
+}
+  .text_main .border_el:before {
+    display: none;
+  }
+  .text_main h1 {
+    font-size: 48px;
+    line-height: 49px;
+    position: relative;
+    padding-left: 15px;
+  }
+  .text_main h1:before {
+    border-left: 4px solid #E9A012;
+    content: "";
+    position: absolute;
+    left: 0;
+    height: 100%;
+  }
+  .text_main .tel_h {
+    font-size: 25px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+  .text_main_sm {
+    color: rgba(255, 255, 255, 0.9);
+}
+  .card {
+    max-height: unset;
+  }
+
+  .-more {
+    display: none;
+  }
+
+  .menu_wrap {
+    position: absolute;
+    display : none;
+  }
+
+  .menu_wrap.active {
+    display: block;
+    right  : 14px;
+    top    : 70px;
+    z-index: 1;
+  }
+
+  .tabs_cust .-primary {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+}
+
+
+/*Экстрамалые девайсы («телефоны», < 576px)*/
+@media (min-width: 576px) {
+  .scroll_p .menu_wrap {
+    position: fixed;
+    width   : 100%;
+    z-index: 3;
+  }
+
+}
+@media (max-width: 576px) {
+  .general_map__yamap2 img,
+  .general_map__yamap1 img {
+    height: 434px !important;
+    object-fit: cover;
+  }
+  .general_map {
+    margin: 0 -30px;
+  }
+  
+
+}
+@media (max-width: 420px) {
+  .text_main .tel_h {
+    font-size  : 27px;
+    line-height: 32px;
+  }
+
+}
+
+
+
+
+
+
+/*Экстрамалые девайсы («телефоны», < 576px)*/
+/*Нет @media, т.к. это по умолчанию в Bootstrap*/
+
+/*Малые девайсы («ландшафтные телефоны», >= 576px)*/
+@media (min-width: 576px) {
+  .w-sm-unset {
+    width: unset !important;
+  }
+}
+
+/*Средние девайсы («таблетки», >= 768px)*/
+@media (min-width: 768px) {
+  .w-md-unset {
+    width: unset !important;
+  }
+}
+
+/*Большие девайсы (десктопы, >= 992px)*/
+@media (min-width: 992px) {}
+
+/*Экстрабольшие девайсы (большие десктопы, >= 1200px)*/
+@media (min-width: 1380px) {
+  .container {
+    max-width: 1240px;
+  }
+}
+
+/*Экстрабольшие девайсы (большие десктопы, >= 1200px)*/
+@media (min-width: 1600px) {
+  .container {
+    /* max-width: 1526px; */
+  }
+}

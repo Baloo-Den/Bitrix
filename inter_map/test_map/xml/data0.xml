@@ -1,0 +1,4027 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>243</n>
+		<s>14,9</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>242</n>
+		<s>14,9</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>241</n>
+		<s>14,9</s>
+		<c>0</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>240</n>
+		<s>14,9</s>
+		<c>0</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>239</n>
+		<s>14,9</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>238</n>
+		<s>16,79</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>237</n>
+		<s>1611,75</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>236</n>
+		<s>17,38</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>235</n>
+		<s>17,37</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>234</n>
+		<s>16,26</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>233</n>
+		<s>16,41</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>232</n>
+		<s>14,99</s>
+		<c>1000000</c>
+		<cn>-</cn>
+		<cnd>1000000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>231</n>
+		<s>14,48</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>230</n>
+		<s>14,52</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>229</n>
+		<s>12,93</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>228</n>
+		<s>12,67</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>227</n>
+		<s>12,72</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>226</n>
+		<s>13,37</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>225</n>
+		<s>14,36</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>224</n>
+		<s>14,26</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>223</n>
+		<s>14,14</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>222</n>
+		<s>12,03</s>
+		<c>1100000</c>
+		<cn>-</cn>
+		<cnd>1100000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>221</n>
+		<s>12,06</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>220</n>
+		<s>12,22</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>219</n>
+		<s>12,64</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>218</n>
+		<s>12,21</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>217</n>
+		<s>12,25</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>216</n>
+		<s>13,11</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>215</n>
+		<s>13,17</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>214</n>
+		<s>13,15</s>
+		<c>1100000</c>
+		<cn>-</cn>
+		<cnd>1100000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>213</n>
+		<s>11,7</s>
+		<c>800000</c>
+		<cn>-</cn>
+		<cnd>800000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>212</n>
+		<s>11,76</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>211</n>
+		<s>12,12</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>210</n>
+		<s>12,69</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>209</n>
+		<s>13,16</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>208</n>
+		<s>13,75</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>207</n>
+		<s>17,85</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>206</n>
+		<s>17,05</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>205</n>
+		<s>16,35</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>204</n>
+		<s>10,98</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>203</n>
+		<s>17,05</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>202</n>
+		<s>15,85</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>201</n>
+		<s>11,07</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>200</n>
+		<s>14,85</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>40</n>
+		<s>9,73</s>
+		<c>350000</c>
+		<cn>-</cn>
+		<cnd>350000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>31</n>
+		<s>9,42</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>41</n>
+		<s>10,51</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>32</n>
+		<s>10</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>42</n>
+		<s>10,51</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>33</n>
+		<s>10</s>
+		<c>350000</c>
+		<cn>-</cn>
+		<cnd>350000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>43</n>
+		<s>10,51</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>34</n>
+		<s>10</s>
+		<c>350000</c>
+		<cn>-</cn>
+		<cnd>350000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>44</n>
+		<s>10,51</s>
+		<c>350000</c>
+		<cn>-</cn>
+		<cnd>350000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>35</n>
+		<s>10</s>
+		<c>400000</c>
+		<cn>-</cn>
+		<cnd>400000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>45</n>
+		<s>10,51</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>36</n>
+		<s>10</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>46</n>
+		<s>10,51</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>37</n>
+		<s>10</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>47</n>
+		<s>10,51</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>38</n>
+		<s>10</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>39</n>
+		<s>9,42</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>48</n>
+		<s>9,41</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>84</n>
+		<s>9,98</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>76</n>
+		<s>8,98</s>
+		<c>400000</c>
+		<cn>-</cn>
+		<cnd>400000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>85</n>
+		<s>10</s>
+		<c>400000</c>
+		<cn>-</cn>
+		<cnd>400000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>77</n>
+		<s>9</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>86</n>
+		<s>10</s>
+		<c>500000</c>
+		<cn>-</cn>
+		<cnd>500000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>78</n>
+		<s>9</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>87</n>
+		<s>10</s>
+		<c>500000</c>
+		<cn>-</cn>
+		<cnd>500000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>79</n>
+		<s>9</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>88</n>
+		<s>10</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>80</n>
+		<s>9</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>89</n>
+		<s>10</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>81</n>
+		<s>9</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>90</n>
+		<s>10</s>
+		<c>500000</c>
+		<cn>-</cn>
+		<cnd>500000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>82</n>
+		<s>9</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>91</n>
+		<s>9,98</s>
+		<c>500000</c>
+		<cn>-</cn>
+		<cnd>500000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>83</n>
+		<s>8,98</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>135</n>
+		<s>12,19</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>136</n>
+		<s>12,18</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>137</n>
+		<s>12,25</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>138</n>
+		<s>12,32</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>139</n>
+		<s>12,47</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>140</n>
+		<s>12,08</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>127</n>
+		<s>9,98</s>
+		<c>500000</c>
+		<cn>-</cn>
+		<cnd>500000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>119</n>
+		<s>8,98</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>128</n>
+		<s>10</s>
+		<c>500000</c>
+		<cn>-</cn>
+		<cnd>500000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>120</n>
+		<s>9</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>129</n>
+		<s>10</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>121</n>
+		<s>9</s>
+		<c>400000</c>
+		<cn>-</cn>
+		<cnd>400000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>130</n>
+		<s>10</s>
+		<c>500000</c>
+		<cn>-</cn>
+		<cnd>500000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>122</n>
+		<s>9</s>
+		<c>400000</c>
+		<cn>-</cn>
+		<cnd>400000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>131</n>
+		<s>10</s>
+		<c>500000</c>
+		<cn>-</cn>
+		<cnd>500000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>123</n>
+		<s>9</s>
+		<c>400000</c>
+		<cn>-</cn>
+		<cnd>400000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>132</n>
+		<s>10</s>
+		<c>450000</c>
+		<cn>-</cn>
+		<cnd>450000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>124</n>
+		<s>9</s>
+		<c>400000</c>
+		<cn>-</cn>
+		<cnd>400000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>133</n>
+		<s>10</s>
+		<c>500000</c>
+		<cn>-</cn>
+		<cnd>500000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>125</n>
+		<s>9</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>134</n>
+		<s>9,98</s>
+		<c>400000</c>
+		<cn>-</cn>
+		<cnd>400000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>126</n>
+		<s>8,98</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>175</n>
+		<s>9,98</s>
+		<c>500000</c>
+		<cn>-</cn>
+		<cnd>500000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>168</n>
+		<s>8,98</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>176</n>
+		<s>10</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>169</n>
+		<s>9</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>177</n>
+		<s>10</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>170</n>
+		<s>9</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>178</n>
+		<s>10</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>171</n>
+		<s>9</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>179</n>
+		<s>10,64</s>
+		<c>500000</c>
+		<cn>-</cn>
+		<cnd>500000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>172</n>
+		<s>10</s>
+		<c>500000</c>
+		<cn>-</cn>
+		<cnd>500000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>180</n>
+		<s>11,14</s>
+		<c>450000</c>
+		<cn>-</cn>
+		<cnd>450000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>173</n>
+		<s>10</s>
+		<c>500000</c>
+		<cn>-</cn>
+		<cnd>500000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>174</n>
+		<s>14,6</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>21</n>
+		<s>7,98</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>11</n>
+		<s>7,98</s>
+		<c>250000</c>
+		<cn>-</cn>
+		<cnd>250000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>22</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>12</n>
+		<s>8</s>
+		<c>-</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>23</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>13</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>24</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>14</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>25</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>15</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>26</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>16</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>27</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>17</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>28</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>18</n>
+		<s>8</s>
+		<c>400000</c>
+		<cn>-</cn>
+		<cnd>400000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>29</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>19</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>30</n>
+		<s>7,98</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>20</n>
+		<s>7,98</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>67</n>
+		<s>7,98</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>58</n>
+		<s>7,98</s>
+		<c>250000</c>
+		<cn>-</cn>
+		<cnd>250000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>68</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>59</n>
+		<s>8</s>
+		<c>250000</c>
+		<cn>-</cn>
+		<cnd>250000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>69</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>60</n>
+		<s>8</s>
+		<c>250000</c>
+		<cn>-</cn>
+		<cnd>250000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>70</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>61</n>
+		<s>8</s>
+		<c>300000</c>
+		<cn>-</cn>
+		<cnd>300000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>71</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>62</n>
+		<s>8</s>
+		<c>300000</c>
+		<cn>-</cn>
+		<cnd>300000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>72</n>
+		<s>8</s>
+		<c>350000</c>
+		<cn>-</cn>
+		<cnd>350000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>63</n>
+		<s>8</s>
+		<c>300000</c>
+		<cn>-</cn>
+		<cnd>300000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>73</n>
+		<s>8</s>
+		<c>350000</c>
+		<cn>-</cn>
+		<cnd>350000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>64</n>
+		<s>8</s>
+		<c>300000</c>
+		<cn>-</cn>
+		<cnd>300000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>74</n>
+		<s>8</s>
+		<c>350000</c>
+		<cn>-</cn>
+		<cnd>350000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>65</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>75</n>
+		<s>7,98</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>66</n>
+		<s>7,98</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>110</n>
+		<s>7,98</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>101</n>
+		<s>7,98</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>111</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>102</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>112</n>
+		<s>8</s>
+		<c>350000</c>
+		<cn>-</cn>
+		<cnd>350000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>103</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>113</n>
+		<s>8</s>
+		<c>350000</c>
+		<cn>-</cn>
+		<cnd>350000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>104</n>
+		<s>8</s>
+		<c>350000</c>
+		<cn>-</cn>
+		<cnd>350000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>114</n>
+		<s>8</s>
+		<c>350000</c>
+		<cn>-</cn>
+		<cnd>350000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>105</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>115</n>
+		<s>8</s>
+		<c>350000</c>
+		<cn>-</cn>
+		<cnd>350000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>106</n>
+		<s>8</s>
+		<c>350000</c>
+		<cn>-</cn>
+		<cnd>350000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>116</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>107</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>117</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>108</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>118</n>
+		<s>7,98</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>109</n>
+		<s>7,98</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>159</n>
+		<s>7,98</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>150</n>
+		<s>7,98</s>
+		<c>400000</c>
+		<cn>-</cn>
+		<cnd>400000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>160</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>151</n>
+		<s>8</s>
+		<c>400000</c>
+		<cn>-</cn>
+		<cnd>400000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>161</n>
+		<s>8</s>
+		<c>400000</c>
+		<cn>-</cn>
+		<cnd>400000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>152</n>
+		<s>8</s>
+		<c>400000</c>
+		<cn>-</cn>
+		<cnd>400000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>162</n>
+		<s>8</s>
+		<c>400000</c>
+		<cn>-</cn>
+		<cnd>400000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>153</n>
+		<s>8</s>
+		<c>400000</c>
+		<cn>-</cn>
+		<cnd>400000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>163</n>
+		<s>8</s>
+		<c>400000</c>
+		<cn>-</cn>
+		<cnd>400000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>154</n>
+		<s>8</s>
+		<c>400000</c>
+		<cn>-</cn>
+		<cnd>400000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>164</n>
+		<s>8</s>
+		<c>400000</c>
+		<cn>-</cn>
+		<cnd>400000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>155</n>
+		<s>8</s>
+		<c>400000</c>
+		<cn>-</cn>
+		<cnd>400000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>165</n>
+		<s>8</s>
+		<c>400000</c>
+		<cn>-</cn>
+		<cnd>400000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>156</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>166</n>
+		<s>8</s>
+		<c>330000</c>
+		<cn>-</cn>
+		<cnd>330000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>157</n>
+		<s>8</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>167</n>
+		<s>9,98</s>
+		<c>300000</c>
+		<cn>-</cn>
+		<cnd>300000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>158</n>
+		<s>9,98</s>
+		<c>500000</c>
+		<cn>-</cn>
+		<cnd>500000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>195</n>
+		<s>10,73</s>
+		<c>500000</c>
+		<cn>-</cn>
+		<cnd>500000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>194</n>
+		<s>9,98</s>
+		<c>350000</c>
+		<cn>-</cn>
+		<cnd>350000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>196</n>
+		<s>10,75</s>
+		<c>500000</c>
+		<cn>-</cn>
+		<cnd>500000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>193</n>
+		<s>10</s>
+		<c>350000</c>
+		<cn>-</cn>
+		<cnd>350000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>197</n>
+		<s>10,75</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>192</n>
+		<s>10</s>
+		<c>500000</c>
+		<cn>-</cn>
+		<cnd>500000</cnd>
+		<st>1</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>198</n>
+		<s>10,32</s>
+		<c>500000</c>
+		<cn>-</cn>
+		<cnd>500000</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+		<ccom>0</ccom>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>191</n>
+		<s>10</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>199</n>
+		<s>10,28</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>190</n>
+		<s>13</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>189</n>
+		<s>13,19</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>
+	<d>
+		<t>Детская площадка</t>
+		<img>./test_map/dp.jpg</img>
+		<t2>Спортивная площадка</t2>
+		<img3>./test_map/sp.jpg</img3>
+		<t4>Спортивная площадка</t4>
+		<img5>./test_map/sp.jpg</img5>
+		<t6>Спортивная площадка</t6>
+		<img7>./test_map/sp.jpg</img7>
+		<n>188</n>
+		<s>17,59</s>
+		<c>15</c>
+		<cn>-</cn>
+		<cnd>-</cnd>
+		<st>0</st>
+		<sz>20x30</sz>
+		<rf>равнина</rf>
+		<a>http://www.google.com/</a>
+		<cnt>Без подряда</cnt>
+	</d>	
+</data>	

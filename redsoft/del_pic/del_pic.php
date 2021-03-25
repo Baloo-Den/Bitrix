@@ -1,4 +1,4 @@
-<?//Удаление файлов некоторых нет в таблице
+<?//Удаление файлов которых нет в таблице
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("Удаление лишних картинок");
 $result = $DB->Query('SELECT FILE_NAME, SUBDIR FROM b_file WHERE MODULE_ID = "iblock"');

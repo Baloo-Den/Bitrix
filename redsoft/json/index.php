@@ -1,4 +1,5 @@
 <?php
+//Json замена
 $filick = file_get_contents('chart.json' );
 $data = json_decode($filick, TRUE); 
 $i=0;

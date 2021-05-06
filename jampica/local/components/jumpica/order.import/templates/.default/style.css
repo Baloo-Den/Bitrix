@@ -1,0 +1,156 @@
+.container.zayavka-end-content {
+    display: none;
+}
+
+.import-form {
+    width: 100%;
+}
+
+.import-form .d-block a:hover {
+    text-decoration: none;
+}
+
+.import-form .form-zayavka-new {
+    margin-bottom: 25px;
+    position: relative;
+}
+
+.import-form .delete-material {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    margin: 10px;
+    color: red;
+    display: none;
+}
+
+.import-form .delete-material.active {
+    display: block;
+}
+
+.import-form .multifile {
+    width: 0px;
+    height: 0px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+
+.import-form .multifile_remove_input {
+    color: red;
+}
+
+/* Комментраий к материалу */
+
+.import-form .material-comment {
+    margin-top: 20px;
+}
+
+/* Файл к материалу */
+
+.import-form .material-file {
+    margin-top: 20px;
+}
+
+.import-form .btn-cart.add-multifile-material {
+    margin-bottom: 15px;
+}
+
+.import-form .multifile-material {
+    width: 0px;
+    height: 0px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+    top: 4px;
+    left: 6px;
+}
+
+/* Скрываем способ обработки */
+
+.processing-hidden {
+    display: none;
+}
+
+/* Ошибки обработки файла */
+.errortext {
+    color: red;
+}
+
+/* Максимальная ширина/высота */
+.import-form .w-min,
+.import-form .w-max,
+.import-form .h-min,
+.import-form .h-max {
+    display: contents;
+}
+
+.zayavka-form-input input[type=number] {
+    padding: 0rem 1rem;
+    height: 70px;
+}
+
+
+/* imidg */
+.img-imidg {
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.img-imidg-partner {
+    height: auto;
+    margin-bottom: 10px;
+}
+
+/* imidg фотография */
+.imidg {
+    width: auto;
+    height: 100px;
+}
+
+/* Обработка материала */
+#inlineFormCustomSelectProcessing {
+    width: 100%;
+}
+
+#inlineFormCustomSelectProcessing option {
+    -moz-white-space: pre-wrap;
+    -o-white-space: pre-wrap;
+    white-space: pre-wrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border-bottom: 5px solid #fff;
+}
+
+#inlineFormCustomSelectProcessing option:last-child {
+    border-bottom: 0px solid #fff;
+}
+
+/* Маркировка */
+img.imidg {
+    padding-bottom: 15px;
+}
+
+.markirovka-info {
+    font-size: 12px;
+    margin-bottom: 5px;
+    color: #cccccc;
+}
+
+/* Подсказка для маркировки */
+
+.tooltip-inner {
+    max-width: 290px !important;
+    background-color: #ff5500 !important;
+    padding: 5px !important;
+}
+
+.bs-tooltip-bottom .arrow::before, .bs-tooltip-auto[x-placement^="bottom"] .arrow::before {
+    border-bottom-color: #ff5500 !important;
+}
+
+.bs-tooltip-top .arrow::before, .bs-tooltip-auto[x-placement^="bottom"] .arrow::before {
+    border-top-color: #ff5500 !important;
+}

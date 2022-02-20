@@ -10,7 +10,7 @@ if(!($arParams["IBLOCK_ID"] > 0))
 use \Bitrix\Main\Service\GeoIp;
 use Bitrix\Main\Context;
 use Bitrix\Main\UI\Extension;
-use Bitrix\Highloadblock\HighloadBlockTable; // Импортируем класс
+use Bitrix\Highloadblock\HighloadBlockTable; // Импортируем класс 
 Extension::load('ui.bootstrap4');
 $IP = GeoIp\Manager::getRealIp();//Получаем IP юзера
 

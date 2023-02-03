@@ -1,4 +1,4 @@
-Задания для «5 углов»
+Задания для «5 углов».
 1.	ответ в файле index.php
 2.	$login=\Bitrix\Main\Engine\CurrentUser::get()->getLogin();//Получаем логин
 $proc =1+( preg_match_all('/[wrtpsdfghklzxcvbnmбвгджзйклмнпрстфхцчшщъь]/iu', $login, $result))/100;//Считаем количество согласных букв и делаем множитель
